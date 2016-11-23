@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="embeddedSystem.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4207"
+       x="-0.10993725"
+       width="1.2198745"
+       y="-0.10993725"
+       height="1.2198745">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4209" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4211"
+       x="-0.10993725"
+       width="1.2198745"
+       y="-0.10993725"
+       height="1.2198745">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4213" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4215"
+       x="-0.074957218"
+       width="1.1499144"
+       y="-0.034355392"
+       height="1.0687108">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4217" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4219"
+       x="-0.074957218"
+       width="1.1499144"
+       y="-0.034355392"
+       height="1.0687108">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4221" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4223"
+       x="-0.014811905"
+       width="1.0296238"
+       y="-0.016220544"
+       height="1.0324411">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4225" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4227"
+       x="-0.015419742"
+       width="1.0308395"
+       y="-0.016183054"
+       height="1.0323661">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4229" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4231"
+       x="-0.016034651"
+       width="1.0320693"
+       y="-0.043756832"
+       height="1.0875137">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4233" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4235"
+       x="-0.014767691"
+       width="1.0295354"
+       y="-0.059094672"
+       height="1.1181893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4237" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4239"
+       x="-0.01601028"
+       width="1.0320206"
+       y="-0.03354018"
+       height="1.0670804">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9447478"
+         id="feGaussianBlur4241" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="404.75883"
+     inkscape:cy="693.07303"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4207)"
+       id="circle4153"
+       cx="700"
+       cy="600.1908"
+       r="32.142857" />
+    <circle
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       r="32.142857"
+       cy="600.1908"
+       cx="54.285709"
+       id="circle4155"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4211)" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       y="497.33365"
+       x="620.34283"
+       height="205.71428"
+       width="94.285713"
+       id="rect4157"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4215)" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4219)"
+       id="rect4159"
+       width="94.285713"
+       height="205.71428"
+       x="41.085697"
+       y="497.33365" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4161"
+       d="M 141.01015,668.74745 232.85714,549.50506 305.20921,670.98068 392.9438,528.07649 362.14657,489.37879 392.85714,453.79078 271.25,285.04077 158.57143,362.3622 225.71429,443.79078 456.25,285.39792 490,320.93363 l 35.08928,-35.89285 72.05358,108.75 -48.57143,51.42857 L 490,387.23966 444.19642,444.77292 330.26786,285.13007 l -46.9923,46.48195 119.58158,-60.67839 -50,-20 21.07143,-15.44642 27.5,19.73214 -128.03572,189.46428 -114.82142,-133.75 34.28571,-26.16071 45.12999,45.07134 -79.95141,-44.53563 90.53571,158.48215 210,-91.42858 -52.5,-67.14286 -44.30366,170.37882 31.97325,56.63777 -32.31245,35.84056 84.03318,122.77048 65.96682,-121.34191 61.42857,120 44.28572,-70 -56.89032,-49.6608 -71.68111,119.6608 L 423.10968,549.04703 358.95024,670.4756 284.28571,549.50506 231.04976,670.22306 181.42857,549.21291 140,593.79078 l 37.14286,75.71428 81.42857,-120 75.71428,120 65.71429,-120 67.14286,120 65.71428,-118.57143 60,118.57143 22.85715,-40 L 570.25254,549.08664 535.71429,669.50506 467.77421,549.71799 398.57143,669.50506 330,549.33918 267.81382,670.05718 201.55484,549.33918 140,612.3622 l 65.71429,57.14286 101.42857,-118.57143 64.8304,119.16317 72.43872,-120.88389 67.01659,120.29215 85.71429,-118.57143 18.57143,20 -62.85715,98.57143 -65.71428,-120 -66.59817,121.68855 -57.68755,-151.68855 30,-28.57143 -31.21564,-43.78063 100.71056,-74.61748 -3.51277,73.4874 48.55611,-60.96945 68.49746,60.88016 21.25,-22.14285 -72.85715,-58.57143 72.85715,-21.42857 -34.28572,-58.75 -53.27556,39.25508 -28.15301,-39.07651 -160,158.57143 -54.28571,-57.0562 -62.85715,57.0562 -47.14285,-47.14286 74.28571,-59.91334 -74.10714,-2.58666 70.17857,-48.83928 32.5,35.62499 34.19642,-36.25 120.08929,159.10715 57.22952,-63.10969 37.0562,63.10969 89.91072,-74.19643 -142.67857,-84.375 -165.46438,59.24239 168.23223,6.47189 L 286.97698,372.3622 480,443.79078 595.71429,318.07649 l -20,-33.66072 -54.70414,51.30866 78.45414,-40.95151 -441.33929,4.73214"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4223)" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4163"
+       d="M 223.19634,671.86456 140,556.64792 l 8.07378,-6.55112 136.21193,117.97969 108.57143,-122.85714 -31.42857,-40 32.85714,-31.42857 -101.42857,-114.28572 171.42857,-25.71428 4.28572,-48.57143 12.6046,37.81382 -322.6046,-13.52811 68.57143,47.14286 -69.28571,59.91071 17.85714,28.66072 66.89031,-61.34192 55.96683,59.91335 L 460,359.50506 352.85714,270.93363 l 50,-25.71428 -4.34933,-9.14443 -45.96457,23.31754 120.20815,68.69037 38.29651,-43.286 80.90149,161.47385 6.38479,-7.60678 -78.35815,-62.85136 77.02412,-68.94291 -56.65783,-21.38652 -13.04269,59.77231 70.41481,11.02239 -103.74985,87.97256 -140.4112,-159.6041 -90.91373,160.61426 -105.05586,-98.99495 88.89342,-61.29017 156.57365,160.28512 61.36676,-71.72083 -110.86424,-138.3909 32.07978,435.70113"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4227)" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4165"
+       d="m 190,443.79078 42.69126,-70.07923 -75.5484,-28.4922 52.52538,-60.49765 36.05348,40.07923 L 260,283.79078 l 14.87001,40.66352 36.55856,-39.22752 149.83412,59.06908 -38.16044,-58.48477 174.79823,78.97497 -70.3392,80.51995 -0.83684,-160.9235 L 597.0562,408.32903 280,380.93363 337.14286,443.79078 460,363.79078 347.3954,284.88758 240,444.50506 l -82.85714,-65 125.45431,-92.59717"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4231)" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4167"
+       d="M 616.42857,667.8622 545.71429,550.57649 432.14286,668.93363 345.16588,550.05347 251.42857,668.93363 138.57143,576.64792 165.35714,550.21935 160,667.50506 137.85714,631.64792 217.14286,551.29078 295,669.64792 l 61.42857,-119.42857 142.14286,118 117.85714,-118 -73.57143,118 -272.5,-117.64286 L 165,667.50506"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4235)" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4169"
+       d="m 508.10673,443.24022 7.52833,-60.79136 82.93637,-51.51523 -105,-45.71428 L 285.46175,444.62761 157.5,298.61221 l 17.67857,-13.75 51.25,62.5 -69.28571,97.14285 303.57143,-93.57143 -107.85715,-72.14285 32.85715,-43.57143 42.14285,210 51.72444,-58.39811 46.84699,58.39811 69.19906,-158.44145 -302.77048,59.51288 58.57142,99.64285 50,-210.71428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4239)" />
+    <circle
+       r="32.142857"
+       cy="600.1908"
+       cx="700"
+       id="circle4190"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4165-3"
+       cx="54.285709"
+       cy="600.1908"
+       r="32.142857"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4163"
+       width="94.285713"
+       height="205.71428"
+       x="620.34283"
+       y="497.33365"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       y="497.33365"
+       x="41.085697"
+       height="205.71428"
+       width="94.285713"
+       id="rect4167"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 141.01015,668.74745 232.85714,549.50506 305.20921,670.98068 392.9438,528.07649 362.14657,489.37879 392.85714,453.79078 271.25,285.04077 158.57143,362.3622 225.71429,443.79078 456.25,285.39792 490,320.93363 l 35.08928,-35.89285 72.05358,108.75 -48.57143,51.42857 L 490,387.23966 444.19642,444.77292 330.26786,285.13007 l -46.9923,46.48195 119.58158,-60.67839 -50,-20 21.07143,-15.44642 27.5,19.73214 -128.03572,189.46428 -114.82142,-133.75 34.28571,-26.16071 45.12999,45.07134 -79.95141,-44.53563 90.53571,158.48215 210,-91.42858 -52.5,-67.14286 -44.30366,170.37882 31.97325,56.63777 -32.31245,35.84056 84.03318,122.77048 65.96682,-121.34191 61.42857,120 44.28572,-70 -56.89032,-49.6608 -71.68111,119.6608 L 423.10968,549.04703 358.95024,670.4756 284.28571,549.50506 231.04976,670.22306 181.42857,549.21291 140,593.79078 l 37.14286,75.71428 81.42857,-120 75.71428,120 65.71429,-120 67.14286,120 65.71428,-118.57143 60,118.57143 22.85715,-40 L 570.25254,549.08664 535.71429,669.50506 467.77421,549.71799 398.57143,669.50506 330,549.33918 267.81382,670.05718 201.55484,549.33918 140,612.3622 l 65.71429,57.14286 101.42857,-118.57143 64.8304,119.16317 72.43872,-120.88389 67.01659,120.29215 85.71429,-118.57143 18.57143,20 -62.85715,98.57143 -65.71428,-120 -66.59817,121.68855 -57.68755,-151.68855 30,-28.57143 -31.21564,-43.78063 100.71056,-74.61748 -3.51277,73.4874 48.55611,-60.96945 68.49746,60.88016 21.25,-22.14285 -72.85715,-58.57143 72.85715,-21.42857 -34.28572,-58.75 -53.27556,39.25508 -28.15301,-39.07651 -160,158.57143 -54.28571,-57.0562 -62.85715,57.0562 -47.14285,-47.14286 74.28571,-59.91334 -74.10714,-2.58666 70.17857,-48.83928 32.5,35.62499 34.19642,-36.25 120.08929,159.10715 57.22952,-63.10969 37.0562,63.10969 89.91072,-74.19643 -142.67857,-84.375 -165.46438,59.24239 168.23223,6.47189 L 286.97698,372.3622 480,443.79078 595.71429,318.07649 l -20,-33.66072 -54.70414,51.30866 78.45414,-40.95151 -441.33929,4.73214"
+       id="path4148"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 223.19634,671.86456 140,556.64792 l 8.07378,-6.55112 136.21193,117.97969 108.57143,-122.85714 -31.42857,-40 32.85714,-31.42857 -101.42857,-114.28572 171.42857,-25.71428 4.28572,-48.57143 12.6046,37.81382 -322.6046,-13.52811 68.57143,47.14286 -69.28571,59.91071 17.85714,28.66072 66.89031,-61.34192 55.96683,59.91335 L 460,359.50506 352.85714,270.93363 l 50,-25.71428 -4.34933,-9.14443 -45.96457,23.31754 120.20815,68.69037 38.29651,-43.286 80.90149,161.47385 6.38479,-7.60678 -78.35815,-62.85136 77.02412,-68.94291 -56.65783,-21.38652 -13.04269,59.77231 70.41481,11.02239 -103.74985,87.97256 -140.4112,-159.6041 -90.91373,160.61426 -105.05586,-98.99495 88.89342,-61.29017 156.57365,160.28512 61.36676,-71.72083 -110.86424,-138.3909 32.07978,435.70113"
+       id="path4149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190,443.79078 42.69126,-70.07923 -75.5484,-28.4922 52.52538,-60.49765 36.05348,40.07923 L 260,283.79078 l 14.87001,40.66352 36.55856,-39.22752 149.83412,59.06908 -38.16044,-58.48477 174.79823,78.97497 -70.3392,80.51995 -0.83684,-160.9235 L 597.0562,408.32903 280,380.93363 337.14286,443.79078 460,363.79078 347.3954,284.88758 240,444.50506 l -82.85714,-65 125.45431,-92.59717"
+       id="path4151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 616.42857,667.8622 545.71429,550.57649 432.14286,668.93363 345.16588,550.05347 251.42857,668.93363 138.57143,576.64792 165.35714,550.21935 160,667.50506 137.85714,631.64792 217.14286,551.29078 295,669.64792 l 61.42857,-119.42857 142.14286,118 117.85714,-118 -73.57143,118 -272.5,-117.64286 L 165,667.50506"
+       id="path4153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 508.10673,443.24022 7.52833,-60.79136 82.93637,-51.51523 -105,-45.71428 L 285.46175,444.62761 157.5,298.61221 l 17.67857,-13.75 51.25,62.5 -69.28571,97.14285 303.57143,-93.57143 -107.85715,-72.14285 32.85715,-43.57143 42.14285,210 51.72444,-58.39811 46.84699,58.39811 69.19906,-158.44145 -302.77048,59.51288 58.57142,99.64285 50,-210.71428"
+       id="path4152"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Code/logbook/css/myImePage/icons/embedded_2.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+  </g>
+</svg>
