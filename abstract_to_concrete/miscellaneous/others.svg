@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1951"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="others.svg">
+  <defs
+     id="defs1945">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2608"
+       x="-0.034112938"
+       width="1.0682259"
+       y="-0.033482691"
+       height="1.0669654">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38748733"
+         id="feGaussianBlur2610" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2612"
+       x="-0.033946535"
+       width="1.0678931"
+       y="-0.034585035"
+       height="1.0691701">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38748733"
+         id="feGaussianBlur2614" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2616"
+       x="-0.034450681"
+       width="1.0689014"
+       y="-0.034280992"
+       height="1.068562">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38748733"
+         id="feGaussianBlur2618" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="384.81825"
+     inkscape:cy="486.86201"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1948">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2602"
+       d="m 37.685003,171.65059 20.579752,-17.10525 -17.372518,-4.81085 -8.819893,12.02713 c 0,0 13.096206,16.03617 13.363474,13.63074 0.267272,-2.40542 2.405428,-27.52876 2.405428,-27.52876 l 9.354431,21.64883 -22.985177,-14.69982 25.123336,6.94901 -25.390607,6.68173 20.045214,5.07813 4.810852,-17.37252"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter2608)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2604"
+       d="m 109.1796,158.55438 -22.851544,13.36348 4.810852,-23.11881 17.907062,17.63978 -8.28536,8.28536 -18.708866,-12.2944 16.437075,-14.29892 8.686261,5.61266 c 0,0 -13.898016,22.18337 -14.29892,21.24793 -0.400905,-0.93545 -8.552625,-20.71339 -8.552625,-20.71339 l 25.123335,8.41899 -19.644309,10.95805 13.363479,-23.78699"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter2612)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2606"
+       d="m 140.45013,149.46722 15.23437,2.40542 -19.77795,19.37704 14.03165,3.47451 9.35444,-10.69078 -16.83798,-15.368 -10.15625,13.09621 11.75986,13.63074 14.69983,-17.63979 -10.95805,-9.48806 -13.49712,5.74629 22.04974,17.10525 -22.317,-2.6727 17.77342,-18.8425"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter2616)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 37.685003,171.65059 20.579752,-17.10525 -17.372518,-4.81085 -8.819893,12.02713 c 0,0 13.096206,16.03617 13.363474,13.63074 0.267272,-2.40542 2.405428,-27.52876 2.405428,-27.52876 l 9.354431,21.64883 -22.985177,-14.69982 25.123336,6.94901 -25.390607,6.68173 20.045214,5.07813 4.810852,-17.37252"
+       id="path2596"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 109.1796,158.55438 -22.851544,13.36348 4.810852,-23.11881 17.907062,17.63978 -8.28536,8.28536 -18.708866,-12.2944 16.437075,-14.29892 8.686261,5.61266 c 0,0 -13.898016,22.18337 -14.29892,21.24793 -0.400905,-0.93545 -8.552625,-20.71339 -8.552625,-20.71339 l 25.123335,8.41899 -19.644309,10.95805 13.363479,-23.78699"
+       id="path2598"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 140.45013,149.46722 15.23437,2.40542 -19.77795,19.37704 14.03165,3.47451 9.35444,-10.69078 -16.83798,-15.368 -10.15625,13.09621 11.75986,13.63074 14.69983,-17.63979 -10.95805,-9.48806 -13.49712,5.74629 22.04974,17.10525 -22.317,-2.6727 17.77342,-18.8425"
+       id="path2600"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.xyz/images/icons/others.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+  </g>
+</svg>
