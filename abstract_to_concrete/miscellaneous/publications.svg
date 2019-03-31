@@ -118,8 +118,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="188.11843"
-     inkscape:cy="650.93589"
+     inkscape:cx="-81.167284"
+     inkscape:cy="645.2216"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,7 +147,7 @@
      id="layer1">
     <g
        id="g4836"
-       transform="rotate(-180,77.81051,128.58996)"
+       transform="rotate(-180,92.74057,135.01556)"
        inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.tech/images/icons/publications.png"
        inkscape:export-xdpi="144.75999"
        inkscape:export-ydpi="144.75999">
@@ -275,7 +275,7 @@
     </g>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 8.693453,21.455356 H 141.97163 l 2.79326,135.959464 -54.268959,-2.63633 v 76.45364 H 8.693453 Z"
+       d="M 38.553572,34.306546 H 171.83175 l 2.79326,135.959464 -54.26896,-2.63633 v 76.45364 H 38.553572 Z"
        id="rect4838"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
@@ -286,7 +286,8 @@
        id="g4802"
        inkscape:export-filename="/home/siqueira/Documents/Repositories/siqueira.tech/images/icons/publications.png"
        inkscape:export-xdpi="144.75999"
-       inkscape:export-ydpi="144.75999">
+       inkscape:export-ydpi="144.75999"
+       transform="translate(29.860119,12.85119)">
       <path
          inkscape:export-ydpi="144.75999"
          inkscape:export-xdpi="144.75999"

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="process.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter876"
+       x="-0.051671579"
+       width="1.1033432"
+       y="-0.0067882364"
+       height="1.0135765">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4162654"
+         id="feGaussianBlur878" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter886"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6555357"
+         id="feGaussianBlur888" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="296.21901"
+     inkscape:cy="521.3495"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       r="82.776787"
+       cy="157.90651"
+       cx="106.59216"
+       id="circle880"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/thesis/survey/figures/lwC.png"
+       inkscape:connector-curvature="0"
+       d="m 106.58948,157.90711 c 0,0 -21.751162,-16.6408 0,-36.02962 21.75115,-19.38881 0,-37.55629 0,-37.55629 m 0,147.1718 c 0,0 -21.751162,-16.64078 0,-36.0296 21.75115,-19.38882 0,-37.55629 0,-37.55629"
+       style="fill:none;stroke:#a7b3cd;stroke-width:4.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter876)"
+       id="path874" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path829"
+       cx="106.59216"
+       cy="157.90651"
+       r="82.776787" />
+    <path
+       id="path3628"
+       style="fill:none;stroke:#a7b3cd;stroke-width:4.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.58948,157.90711 c 0,0 -21.751162,-16.6408 0,-36.02962 21.75115,-19.38881 0,-37.55629 0,-37.55629 m 0,147.1718 c 0,0 -21.751162,-16.64078 0,-36.0296 21.75115,-19.38882 0,-37.55629 0,-37.55629"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/thesis/survey/figures/lwC.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+  </g>
+</svg>

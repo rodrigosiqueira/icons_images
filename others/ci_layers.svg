@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="382.94131mm"
+   height="245.03484mm"
+   viewBox="0 0 382.94131 245.03484"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="ci_layers.svg"
+   inkscape:export-filename="/home/siqueira/Pictures/ci_layers.png"
+   inkscape:export-xdpi="19.121201"
+   inkscape:export-ydpi="19.121201">
+  <defs
+     id="defs2">
+    <linearGradient
+       y2="49.371456"
+       y1="49.371456"
+       x2="256.34256"
+       x1="170.13847"
+       id="def0"
+       gradientTransform="scale(0.58775648,1.7013849)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1794"
+         stop-color="#E6E6E8"
+         offset="0" />
+      <stop
+         id="stop1796"
+         stop-color="#939597"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="63.063583"
+       y1="63.063583"
+       x2="133.19865"
+       x1="23.087721"
+       id="def1"
+       gradientTransform="scale(0.75075828,1.3319866)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1799"
+         stop-color="#BCBDBF"
+         offset="0" />
+      <stop
+         id="stop1801"
+         stop-color="#D0D2D3"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="28.221251"
+       y1="56.442303"
+       x2="83.341667"
+       x1="83.341667"
+       id="def2"
+       gradientTransform="scale(1.5118488,0.66144181)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1804"
+         style="stop-opacity:0.501960784313725"
+         stop-color="#6D6D70"
+         offset="0" />
+      <stop
+         id="stop1806"
+         style="stop-opacity:0.501960784313725"
+         stop-color="#BCBDBF"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="61.583572"
+       y1="89.296143"
+       x2="81.840042"
+       x1="81.840042"
+       id="def3"
+       gradientTransform="scale(1.5395887,0.64952413)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1809"
+         style="stop-opacity:0.501960784313725"
+         stop-color="#6D6D70"
+         offset="0" />
+      <stop
+         id="stop1811"
+         style="stop-opacity:0.501960784313725"
+         stop-color="#BCBDBF"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="222.50383"
+       y1="245.13132"
+       x2="66.467865"
+       x1="66.467865"
+       id="def4"
+       gradientTransform="scale(1.8856254,0.53032801)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1814"
+         stop-color="#BCBDBF"
+         offset="0" />
+      <stop
+         id="stop1816"
+         stop-color="#6D6D70"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="257.01215"
+       y1="289.50864"
+       x2="25.877138"
+       x1="25.877138"
+       id="def5"
+       gradientTransform="scale(2.2156217,0.4513406)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1819"
+         stop-color="#BCBDBF"
+         offset="0" />
+      <stop
+         id="stop1821"
+         stop-color="#6D6D70"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="232.55489"
+       y1="256.40607"
+       x2="70.062408"
+       x1="70.062408"
+       id="def6"
+       gradientTransform="scale(1.7888837,0.55900782)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1824"
+         stop-color="#BCBDBF"
+         offset="0" />
+      <stop
+         id="stop1826"
+         stop-color="#6D6D70"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="246.14693"
+       y1="282.80786"
+       x2="29.193277"
+       x1="29.193277"
+       id="def7"
+       gradientTransform="scale(1.9639435,0.50917962)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1829"
+         stop-color="#BCBDBF"
+         offset="0" />
+      <stop
+         id="stop1831"
+         stop-color="#6D6D70"
+         offset="1" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1700"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1698"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4595" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4595-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4595-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4595-5-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.27427885"
+     inkscape:cx="1376.4121"
+     inkscape:cy="190.66215"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1"
+     transform="translate(71.958562,-9.3823005)">
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#a7b3cd;stroke-width:3.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4504"
+       width="260.98584"
+       height="241.03484"
+       x="47.996918"
+       y="11.3823"
+       ry="0.099113084"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.81644"
+       y="47.056419"
+       id="text4508-35"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="178.81644"
+         y="47.056419"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4570">Testes sem execução</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.68177"
+       y="227.34105"
+       id="text4508-9"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan4506-1"
+         x="73.68177"
+         y="227.34105"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px">Testes de dispositivos</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.148872,191.67464 H 309.77473"
+       id="path4572-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4632"
+       d="M 48.148872,131.6017 H 309.77473"
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.148872,71.528772 H 309.77473"
+       id="path4634"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       id="text1997"
+       y="105.54243"
+       x="178.85364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan1995"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="105.54243"
+         x="178.85364"
+         sodipodi:role="line">Testes dentro de VMs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:13.86416626px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.85364"
+       y="159.51846"
+       id="text2001"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="178.85364"
+         y="159.51846"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.86416626px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan1999">Testes primários de</tspan><tspan
+         sodipodi:role="line"
+         x="178.85364"
+         y="175.03214"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.86416626px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan5666">hardware</tspan></text>
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       id="text5674"
+       y="48.441349"
+       x="-25.689554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5672"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="48.441349"
+         x="-25.689556"
+         sodipodi:role="line">Camada 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-25.689554"
+       y="105.54243"
+       id="text5678"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="-25.689556"
+         y="105.54243"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan5676">Camada 2</tspan></text>
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       id="text5682"
+       y="166.93631"
+       x="-25.689554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5680"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="166.93631"
+         x="-25.689556"
+         sodipodi:role="line">Camada 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-25.689554"
+       y="228.9823"
+       id="text5686"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/ssh_layers.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="-25.689556"
+         y="228.9823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:13.33500004px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan5684">Camada 4</tspan></text>
+  </g>
+</svg>

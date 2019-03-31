@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="ludus.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-491.84035"
+     inkscape:cy="628.61171"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-others="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path824"
+       cx="-153.15784"
+       cy="118.99849"
+       r="227.17911"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/ludusociety/ludus-page/img/ludus_front.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -648.24609,319.83594 c -169.78269,95.00786 -174.77976,275.76195 -173.7461,453.55664 6.77208,36.22707 63.52502,208.64852 94.95508,390.92972 l 96.97461,36.3652 c 0.92984,-144.1504 -14.37173,-257.64054 8.08203,-442.44727 -52.36989,-0.89873 -113.52284,1.39966 -147.48242,-20.20117 -4.74607,-19.46729 -5.63109,-60.79655 13.13086,-81.82422 l 150.51367,8.08204 v 206.07031 l 26.95313,33.33593 26.95507,-33.33593 V 664.29688 l 150.51368,-8.08204 c 18.76195,21.02767 17.87692,62.35693 13.13086,81.82422 -33.95959,21.60083 -95.11254,19.30248 -147.48243,20.20117 22.45376,184.80677 7.1522,298.29687 8.08203,442.44727 l 96.97461,-36.3652 c 31.43006,-182.28121 88.183,-354.70265 94.95508,-390.92972 1.03366,-177.79469 -3.96342,-358.5488 -173.74609,-453.55664 -21.47256,-21.17945 -50.56001,-42.56451 -70.28746,-41.89619 -19.72744,0.66833 -47.67466,21.3786 -68.47621,41.89619 z"
+       transform="scale(0.26458333)"
+       id="path2398"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/ludusociety/ludus-page/img/ludus_front.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -248.74529,26.888768 c -7.9302,-0.03263 -16.6696,1.144458 -26.87638,3.706233 -53.41734,20.268586 -66.64701,92.043999 -15.49725,130.779609 23.69203,12.99733 55.48312,12.13828 83.53287,-6.42544 0,0 27.04317,-9.24253 54.4282,-12.92066 27.38504,3.67813 54.428214,12.92066 54.428214,12.92066 28.049747,18.56372 59.840863,19.42277 83.532898,6.42544 C 35.953003,122.639 22.723337,50.863582 -30.693992,30.595001 c -10.206779,-2.56178 -18.946204,-3.738835 -26.876401,-3.706233 -16.238035,0.06682 -29.08263,5.205045 -44.182827,13.911294 -6.36011,1.483151 -6.97415,-1.138166 -10.20559,-1.889807 5.88706,19.811367 32.060309,9.607923 49.137072,9.449554 37.097732,2.141656 55.253281,50.600051 39.6875,65.767561 -28.556452,27.82581 -47.778167,-37.901354 -86.367362,-47.435866 -14.77743,-3.1872 -43.65625,12.284006 -43.65625,12.284006 0,0 -28.87882,-15.471206 -43.65625,-12.284006 -38.58918,9.534512 -57.81087,75.261676 -86.36732,47.435866 -15.56578,-15.16751 2.58976,-63.625907 39.6875,-65.767561 17.07676,0.158369 43.24998,10.361813 49.13704,-9.449554 -3.23144,0.751641 -3.84546,3.372958 -10.20556,1.889807 -15.1002,-8.706249 -27.94482,-13.844481 -44.18285,-13.911294 z"
+       id="path2400"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccccccccccscccscccs"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/ludusociety/ludus-page/img/ludus_front.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'GLADIATOR SPORT-Hollow-Inverse';-inkscape-font-specification:'GLADIATOR SPORT-Hollow-Inverse';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-324.75803"
+       y="24.385101"
+       id="text824"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/ludusociety/ludus-page/img/ludus_front.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan822"
+         x="-324.75803"
+         y="24.385101"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55555725px;font-family:'GLADIATOR SPORT';-inkscape-font-specification:'GLADIATOR SPORT Bold Italic';stroke-width:0.26458332">ludus</tspan></text>
+  </g>
+</svg>
