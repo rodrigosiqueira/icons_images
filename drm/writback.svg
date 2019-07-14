@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="632.6319mm"
+   height="393.25912mm"
+   viewBox="0 0 632.6319 393.25912"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="writback.svg"
+   inkscape:export-filename="/home/siqueira/Downloads/writeback2.png"
+   inkscape:export-xdpi="144.75999"
+   inkscape:export-ydpi="144.75999">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker896"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path894"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7019"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7017"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4811"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4809"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4319"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4317"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3761"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3759"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3347"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3345"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3029"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3027"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1729"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14527"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14525"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker110861-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path110859-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38788886"
+     inkscape:cx="895.30951"
+     inkscape:cy="623.75903"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(101.04788,80.268708)">
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="14.564795"
+       y="-99.956696"
+       x="-122.74865"
+       height="81.32103"
+       width="58.176624"
+       id="rect11686"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.18236852;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.18236852;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect821"
+       width="58.176624"
+       height="81.32103"
+       x="-216.03609"
+       y="-99.956696"
+       ry="14.564795"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="14.564795"
+       y="-99.956696"
+       x="-311.89923"
+       height="81.32103"
+       width="58.176624"
+       id="rect823"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.18236852;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:5.48895645;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825"
+       width="190.12772"
+       height="157.40891"
+       x="-266.65924"
+       y="44.770866"
+       ry="28.192318"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.9325161;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect827"
+       width="51.362793"
+       height="166.31346"
+       x="-19.057537"
+       y="-33.676994"
+       ry="9.7400208"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="8.7607307"
+       y="224.07532"
+       x="-16.83588"
+       height="125.08461"
+       width="51.742733"
+       id="rect840"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.55257797;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.75233483;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect842"
+       width="73.370537"
+       height="102.55953"
+       x="-208.28065"
+       y="261.43851"
+       ry="18.368664"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="18.697855"
+       y="420.32886"
+       x="-208.9381"
+       height="104.39754"
+       width="74.685432"
+       id="rect844"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:2.8016603;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-92.606491"
+       y="61.639339"
+       id="text848"><tspan
+         sodipodi:role="line"
+         id="tspan846"
+         x="-92.606491"
+         y="61.639339"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Plano</tspan></text>
+    <text
+       id="text852"
+       y="154.9268"
+       x="-92.606491"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="154.9268"
+         x="-92.606491"
+         id="tspan850"
+         sodipodi:role="line">Plano</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-92.606491"
+       y="250.78995"
+       id="text856"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="-92.606491"
+         y="250.78995"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Plano</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="264.48825"
+       y="228.42743"
+       id="text848-5"><tspan
+         sodipodi:role="line"
+         id="tspan846-1"
+         x="264.48825"
+         y="228.42743"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Encoder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="414.22946"
+       y="228.22052"
+       id="text848-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan846-1-4"
+         x="414.22946"
+         y="228.22052"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Conector</tspan></text>
+    <text
+       id="text915"
+       y="-61.498108"
+       x="238.38759"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="-61.498108"
+         x="238.38759"
+         sodipodi:role="line"
+         id="tspan917">Encoder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="247.2117"
+       y="-38.590881"
+       id="text848-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan846-1-1"
+         x="247.2117"
+         y="-38.590881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Virtual</tspan></text>
+    <text
+       id="text935"
+       y="291.9281"
+       x="91.1595"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="291.9281"
+         x="91.1595"
+         id="tspan933"
+         sodipodi:role="line">CRTC</tspan></text>
+    <text
+       id="text939"
+       y="-54.201092"
+       x="-10.749517"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="-54.201092"
+         x="-10.749517"
+         sodipodi:role="line"
+         id="tspan941">Conector</tspan></text>
+    <text
+       id="text939-4"
+       y="-35.190289"
+       x="-27.912769"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="-35.190289"
+         x="-27.912769"
+         sodipodi:role="line"
+         id="tspan941-6">WRITEBACK</tspan></text>
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:1.82599998;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.65199996, 1.82599998;stroke-dashoffset:17.34700012;stroke-opacity:1"
+       id="rect963"
+       width="48.672119"
+       height="68.035347"
+       x="-117.99641"
+       y="-93.31385"
+       ry="12.185297"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="12.185297"
+       y="-93.313858"
+       x="-211.28383"
+       height="68.035347"
+       width="48.672119"
+       id="rect965"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:1.82599998;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.65199996, 1.82599998;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:1.82599998;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.65199996, 1.82599998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect967"
+       width="48.672119"
+       height="68.035347"
+       x="-307.14697"
+       y="-93.313858"
+       ry="12.185297"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="15.037366"
+       y="270.73846"
+       x="-201.6275"
+       height="83.959579"
+       width="60.064228"
+       id="rect969"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:2.25317788;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:2.30250335;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect971"
+       width="61.379124"
+       height="85.797585"
+       x="-202.28494"
+       y="429.62885"
+       ry="15.366557"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path110857"
+       d="M -6.3183802,98.355216 27.83043,118.07104"
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker110861-7);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3029);paint-order:normal"
+       d="M -6.3183802,276.00498 27.83043,256.28916"
+       id="path3025"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path3343"
+       d="M -6.3183802,187.70429 H 32.605208"
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3347);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3761);paint-order:normal"
+       d="m 209.91086,171.61461 h 38.92359"
+       id="path3757"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path4315"
+       d="m 370.20699,171.6146 h 38.92359"
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4319);paint-order:normal" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path4807"
+       d="m 207.18241,115.68149 c 39.16262,-1.8562 60.68578,-28.627343 57.34059,-87.992339"
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4811);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:5.17126322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.17126366, 10.34252739;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker7019);paint-order:normal"
+       d="M 208.93688,-9.1448642 H 143.88105"
+       id="path7015"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text915-9"
+       y="2.9265404"
+       x="-3.415375"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="2.9265404"
+         x="-3.415375"
+         sodipodi:role="line"
+         id="tspan917-4">Memória</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="276.99255"
+       y="180.40919"
+       id="text7719"><tspan
+         id="tspan7717"
+         sodipodi:role="line"
+         x="276.99255"
+         y="180.40919"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">HDMI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="541.59631"
+       y="168.08098"
+       id="text7723"><tspan
+         sodipodi:role="line"
+         id="tspan7721"
+         x="541.59631"
+         y="206.60709"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       id="text915-2"
+       y="177.33928"
+       x="446.06003"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="177.33928"
+         x="446.06003"
+         sodipodi:role="line"
+         id="tspan917-2">Tela</tspan></text>
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="3.7649457"
+       y="402.84213"
+       x="36.673462"
+       height="21.021185"
+       width="20.46093"
+       id="rect7823"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:0.65808904;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:1.31617799, 0.658089;stroke-dashoffset:17.34700012;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+       ry="3.4942186"
+       y="403.59793"
+       x="13.537354"
+       height="19.509607"
+       width="17.391562"
+       id="rect7825"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:3.18400002;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-90)" />
+    <text
+       id="text7829"
+       y="-40.968472"
+       x="428.87704"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+         y="-40.968472"
+         x="428.87704"
+         id="tspan7827"
+         sodipodi:role="line">Software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="428.87704"
+       y="-15.048244"
+       id="text7833"><tspan
+         sodipodi:role="line"
+         id="tspan7831"
+         x="428.87704"
+         y="-15.048244"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">Hardware</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path892"
+       d="M 360.57242,33.757807 H -58.990116"
+       style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:13.13300005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:13.13300005, 26.26600011000000023;stroke-dashoffset:9.19310004;stroke-opacity:1;paint-order:normal" />
+  </g>
+</svg>

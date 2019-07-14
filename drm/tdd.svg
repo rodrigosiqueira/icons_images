@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="632.08728mm"
+   height="257.18475mm"
+   viewBox="0 0 632.08728 257.18475"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="tdd.svg"
+   inkscape:export-filename="/home/siqueira/Downloads/tdd.png"
+   inkscape:export-xdpi="144.75999"
+   inkscape:export-ydpi="144.75999">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1047"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1045"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker896"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path894"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4811"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4809"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3761"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3759"
+         style="fill:#37abc8;fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1729"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14527"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14525"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38788886"
+     inkscape:cx="1144.4067"
+     inkscape:cy="243.64956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(93.968947,55.307899)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3761);paint-order:normal"
+       d="M 283.28464,153.87972 H 162.50771"
+       id="path3757"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:connector-curvature="0"
+       id="path4807"
+       d="m 349.06153,-4.7320061 c 39.16262,1.8562 60.68578,28.6273501 57.34059,87.9923361"
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4811);paint-order:normal" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="541.59631"
+       y="168.08098"
+       id="text7723"><tspan
+         sodipodi:role="line"
+         id="tspan7721"
+         x="541.59631"
+         y="206.60709"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g951"
+       transform="translate(-74.009077,-34.787671)">
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:5.01492786;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11686"
+         width="102.78747"
+         height="243.04375"
+         x="-84.774704"
+         y="174.56189"
+         ry="43.529732"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         ry="36.41814"
+         y="194.41536"
+         x="-76.378342"
+         height="203.3369"
+         width="85.994728"
+         id="rect963"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:4.19601822;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:8.39203669, 4.19601835;stroke-dashoffset:17.34700012;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <g
+         transform="translate(0.54716079,-57.373857)"
+         id="g942">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="199.22104"
+           y="88.92379"
+           id="text848"><tspan
+             sodipodi:role="line"
+             x="199.22104"
+             y="88.92379"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+             id="tspan914">Assistir os testes</tspan></text>
+        <text
+           id="text924"
+           y="110.95007"
+           x="221.16466"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan922"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+             y="110.95007"
+             x="221.16466"
+             sodipodi:role="line">do IGT falhar</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="441.91263"
+       y="287.75229"
+       id="text955"><tspan
+         sodipodi:role="line"
+         id="tspan953"
+         x="441.91263"
+         y="326.27841"
+         style="stroke-width:0.26458332"></tspan></text>
+    <g
+       id="g1002"
+       transform="translate(68.211119,-158.24978)">
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         ry="43.529732"
+         y="224.356"
+         x="-357.61917"
+         height="243.04375"
+         width="102.78747"
+         id="rect961"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:5.01492786;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:4.19601822;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:8.39203669, 4.19601835;stroke-dashoffset:17.34700012;stroke-opacity:1"
+         id="rect964"
+         width="85.994728"
+         height="203.3369"
+         x="-349.22281"
+         y="244.20947"
+         ry="36.41814"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <g
+         transform="translate(2.7856669,99.19033)"
+         id="g991">
+        <text
+           id="text928"
+           y="204.88271"
+           x="242.51163"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+             y="204.88271"
+             x="242.51163"
+             sodipodi:role="line"
+             id="tspan930">Escrever o código</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="263.69702"
+           y="224.59711"
+           id="text936"><tspan
+             id="tspan934"
+             sodipodi:role="line"
+             x="263.69702"
+             y="224.59711"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332">para os testes </tspan></text>
+        <text
+           id="text959"
+           y="244.1972"
+           x="287.35989"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+             y="244.1972"
+             x="287.35989"
+             sodipodi:role="line"
+             id="tspan957">passarem</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1041"
+       transform="translate(-7.5032231,-72.985895)">
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         ry="43.529732"
+         y="-83.95826"
+         x="-272.35529"
+         height="243.04375"
+         width="102.78747"
+         id="rect1004"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:5.01492786;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#ffd42a;stroke-width:4.19601822;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:8.39203669, 4.19601835;stroke-dashoffset:17.34700012;stroke-opacity:1"
+         id="rect1006"
+         width="85.994728"
+         height="203.3369"
+         x="-263.95892"
+         y="-64.10479"
+         ry="36.41814"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <g
+         id="g1016"
+         transform="translate(-257.97299,130.20671)">
+        <g
+           transform="translate(33.041234,-2.7177824)"
+           id="g1031">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="199.22104"
+             y="88.92379"
+             id="text1010"><tspan
+               sodipodi:role="line"
+               x="199.22104"
+               y="88.92379"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+               id="tspan1008">Melhorar o</tspan></text>
+          <text
+             id="text1014"
+             y="110.95007"
+             x="221.88022"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan1012"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:0.26458332"
+               y="110.95007"
+               x="221.88022"
+               sodipodi:role="line">Código</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#37abc8;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.00000016, 8.00000037;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1047);paint-order:normal"
+       d="M 1.5413692,90.293806 C 3.3975691,51.131186 30.168719,-3.8154212 89.533706,-0.47023124"
+       id="path1043"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/redis_overview.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

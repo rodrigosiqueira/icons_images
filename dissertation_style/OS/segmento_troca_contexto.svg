@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="965.9834mm"
+   height="386.60809mm"
+   viewBox="0 0 965.9834 386.60809"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="segmento_troca_contexto.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1044"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1042"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1700"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1698"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4595"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4595-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4595-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4595-5-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker24572"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path24570"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54855769"
+     inkscape:cx="633.7503"
+     inkscape:cy="732.01152"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(60.098828,-5.3740171)">
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#a7b3cd;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4504"
+       width="204.85925"
+       height="293.95419"
+       x="-25.177065"
+       y="96.027931"
+       ry="0.12087343"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.398155"
+       y="113.63233"
+       id="text4508"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="54.398155"
+         y="113.63233"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Hack;-inkscape-font-specification:'Hack Bold';stroke-width:0.26458332px">Stack</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:13.22916698px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="77.157486"
+       y="325.71997"
+       id="text4508-7"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="77.157486"
+         y="325.71997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:18.89125252px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px;"
+         id="tspan4578">Segmento de dados</tspan><tspan
+         sodipodi:role="line"
+         x="77.157486"
+         y="344.61124"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:18.89125252px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px;"
+         id="tspan943">inicializados</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="77.157486"
+       y="269.40833"
+       id="text4508-35"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         x="77.157486"
+         y="269.40833"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:17.30374908px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4570">Segmento de dados</tspan><tspan
+         sodipodi:role="line"
+         x="77.157486"
+         y="286.71207"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:17.30374908px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan937">não inicializado</tspan><tspan
+         sodipodi:role="line"
+         x="77.157486"
+         y="304.01584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:17.30374908px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan939">(BSS)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="56.515854"
+       y="246.1803"
+       id="text4508-9"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan4506-1"
+         x="56.515854"
+         y="246.1803"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Hack;-inkscape-font-specification:'Hack Bold';stroke-width:0.26458332px;">Heap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-14.781095"
+       y="373.47873"
+       id="text4508-7-2"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan4506-5-7"
+         x="-14.781095"
+         y="373.47873"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Hack;-inkscape-font-specification:'Hack Bold';stroke-width:0.26458332px;">Segmento de Texto</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -24.111218,349.29426 H 180.16132"
+       id="path4572"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -25.241873,309.21772 H 179.03066"
+       id="path4572-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -24.488101,254.20001 H 179.78443"
+       id="path4572-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000001, 4.0000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -25.241874,228.54213 H 179.03066"
+       id="path4572-3-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000001, 4.0000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -24.4881,118.49154 H 179.78443"
+       id="path4572-3-6-7-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 125.69749,249.82845 V 236.60809"
+       id="path4566"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="M 30.038597,249.82845 V 236.60809"
+       id="path4566-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-1)"
+       d="m 29.71079,100.30742 v 12.48115"
+       id="path4566-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       id="text4614"
+       y="171.3719"
+       x="77.153358"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:16.51000023px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="171.3719"
+         x="77.153358"
+         sodipodi:role="line"
+         id="tspan4618">Segmento de</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:16.51000023px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="187.8819"
+         x="77.153358"
+         sodipodi:role="line"
+         id="tspan929">memória mapeada</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4632"
+       d="M -24.488101,192.19348 H 179.78443"
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -24.488101,154.24121 H 179.78443"
+       id="path4634"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       id="text4638"
+       y="135.70747"
+       x="80.302513"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:14.89604187px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.26458332px"
+         y="135.70747"
+         x="80.302513"
+         id="tspan4636"
+         sodipodi:role="line">Memória não</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:14.89604187px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.26458332px"
+         y="150.60352"
+         x="80.302513"
+         sodipodi:role="line"
+         id="tspan960">utilizada</tspan></text>
+    <rect
+       y="7.3740177"
+       x="-24.570807"
+       height="83.843056"
+       width="204.25301"
+       id="rect2663"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#ff2a2a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       id="text886"
+       y="36.108055"
+       x="4.0607882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px"
+         y="36.108055"
+         x="4.0607882"
+         id="tspan884"
+         sodipodi:role="line">Kernel Space</tspan></text>
+    <path
+       style="fill:#444444;stroke:#444444;stroke-width:0.4524059"
+       id="use8"
+       d="m -34.472621,91.285653 h -2.267863 c -2.721429,0 -4.535708,0 -6.349988,-0.451243 -1.814297,-0.451245 -3.628577,-1.804975 -4.989291,-3.609948 -1.360715,-1.804974 -1.81428,-3.609948 -2.267863,-5.866164 -0.453566,-2.256218 -0.453566,-6.317409 -0.453566,-11.73233 0,-4.061191 0,-6.768652 -0.453565,-9.02487 -0.453583,-2.256216 -1.360715,-4.512433 -2.721429,-5.866164 -1.360714,-1.35373 -3.175011,-2.256216 -5.896439,-2.256216 v -7.219896 c 2.721428,0 4.535725,-0.902486 5.896439,-2.256216 1.360714,-1.35373 2.267846,-3.609948 2.721429,-5.866166 0.453565,-2.256216 0.453565,-4.963676 0.453565,-9.024867 0,-5.414923 0,-9.476113 0.453566,-11.732333 0.453583,-2.25621 0.907148,-4.06119 2.267863,-5.86616 1.360714,-1.8049695 3.174994,-3.1586995 4.989291,-3.6099495 1.81428,-0.45124 3.628559,-0.45124 6.349988,-0.45124 h 2.267863 V 13.22054 h -1.360715 c -3.174994,0 -4.989291,0.45124 -5.896422,1.35373 -1.360714,1.35373 -1.814297,1.80497 -1.814297,3.1587 v 11.281088 c 0,6.768652 -0.907132,11.281088 -2.267846,13.988548 -1.360714,2.707461 -4.082142,4.512434 -6.803571,5.866164 2.721429,1.353731 5.442857,3.158704 6.803571,5.866164 1.360714,2.707461 2.267846,7.219895 2.267846,13.988546 v 11.281087 c 0,1.353731 0.453583,1.804973 1.814297,3.158704 0.907131,0.902487 2.721428,1.35373 5.896422,1.35373 h 1.360715 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <g
+       id="g1188"
+       transform="translate(-23.434516,123.97619)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#a7b3cd;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1117"
+         width="204.85925"
+         height="135.20419"
+         x="260.57294"
+         y="-27.948256"
+         ry="0.055595718"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <rect
+         y="-116.60217"
+         x="261.1792"
+         height="83.843056"
+         width="204.25301"
+         id="rect1119"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#ff2a2a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/pte.png"
+         inkscape:export-xdpi="293.84"
+         inkscape:export-ydpi="293.84" />
+      <text
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         id="text1127"
+         y="-87.868134"
+         x="289.81079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px"
+           y="-87.868134"
+           x="289.81079"
+           id="tspan1125"
+           sodipodi:role="line">Kernel Space</tspan></text>
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         ry="0.016118245"
+         y="-5.2696843"
+         x="260.57294"
+         height="39.198238"
+         width="204.85925"
+         id="rect1133"
+         style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#a7b3cd;stroke-width:3.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="311.09464"
+         y="18.786011"
+         id="text1139"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999"><tspan
+           sodipodi:role="line"
+           id="tspan1137"
+           x="311.09464"
+           y="18.786011"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px">Processo 1</tspan></text>
+    </g>
+    <g
+       id="g1179"
+       transform="translate(-82.02084,123.97619)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999">
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         ry="0.058082487"
+         y="-27.948256"
+         x="550.10272"
+         height="141.25182"
+         width="204.85925"
+         id="rect1121"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#a7b3cd;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="293.84"
+         inkscape:export-xdpi="293.84"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/pte.png"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#ff2a2a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1123"
+         width="204.25301"
+         height="83.843056"
+         x="550.70898"
+         y="-116.60217" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="579.34058"
+         y="-87.868134"
+         id="text1131"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999"><tspan
+           sodipodi:role="line"
+           id="tspan1129"
+           x="579.34058"
+           y="-87.868134"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px">Kernel Space</tspan></text>
+      <rect
+         style="opacity:1;fill:#e5ff80;fill-opacity:1;stroke:#a7b3cd;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1135"
+         width="204.85925"
+         height="82.287537"
+         x="550.10272"
+         y="21.188646"
+         ry="0.033836484"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <text
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         id="text1143"
+         y="68.384758"
+         x="600.62439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan1145"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px"
+           y="68.384758"
+           x="600.62439"
+           sodipodi:role="line">Processo 2</tspan></text>
+    </g>
+    <g
+       id="g1170"
+       transform="translate(-121.70833,125.48811)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999">
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         ry="0.055595718"
+         y="-27.948256"
+         x="820.73364"
+         height="135.20419"
+         width="204.85925"
+         id="rect1149"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#a7b3cd;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="293.84"
+         inkscape:export-xdpi="293.84"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/pte.png"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#ff2a2a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1151"
+         width="204.25301"
+         height="83.843056"
+         x="821.3399"
+         y="-116.60217" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="849.9715"
+         y="-87.868134"
+         id="text1155"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999"><tspan
+           sodipodi:role="line"
+           id="tspan1153"
+           x="849.9715"
+           y="-87.868134"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px">Kernel Space</tspan></text>
+      <rect
+         style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#a7b3cd;stroke-width:3.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1157"
+         width="204.85925"
+         height="39.198238"
+         x="820.73364"
+         y="-5.2696843"
+         ry="0.016118245"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <text
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/usp/research/thesis/quali/figures/memory_segment.png"
+         id="text1161"
+         y="18.786011"
+         x="871.25537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';stroke-width:0.26458332px"
+           y="18.786011"
+           x="871.25537"
+           id="tspan1159"
+           sodipodi:role="line">Processo 1</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker24572)"
+       d="m 420.11916,250.0972 a 35.212866,36.578667 0 0 0 17.06209,32.31465 35.212866,36.578667 0 0 0 35.47692,0.48481 35.212866,36.578667 0 0 0 17.87454,-31.8372"
+       id="path24568"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:connector-curvature="0"
+       id="path1696"
+       d="m 668.07154,250.0972 a 35.212866,36.578667 0 0 0 17.06209,32.31465 35.212866,36.578667 0 0 0 35.47692,0.48481 35.212866,36.578667 0 0 0 17.87454,-31.8372"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1700)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="457.30957"
+       y="315.81042"
+       id="text2080"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan2078"
+         x="457.30957"
+         y="315.81042"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:19.10291672px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Troca de</tspan><tspan
+         sodipodi:role="line"
+         x="457.30957"
+         y="334.91333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:19.10291672px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan2082">contexto</tspan></text>
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       id="text2100"
+       y="315.81042"
+       x="705.26196"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:19.10291672px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="315.81042"
+         x="705.26196"
+         id="tspan2096"
+         sodipodi:role="line">Troca de</tspan><tspan
+         id="tspan2098"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:19.10291672px;font-family:'Istok Web';-inkscape-font-specification:'Istok Web Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="334.91333"
+         x="705.26196"
+         sodipodi:role="line">contexto</tspan></text>
+    <text
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:12.43541622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="77.219505"
+       y="209.17865"
+       id="text933"><tspan
+         sodipodi:role="line"
+         id="tspan931"
+         x="77.219505"
+         y="209.17865"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:12.43541622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.26458332px">Memória não</tspan><tspan
+         sodipodi:role="line"
+         x="77.219505"
+         y="223.42422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:12.43541622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.26458332px"
+         id="tspan928">utilizada</tspan></text>
+    <path
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/segmento_troca_contexto.png"
+       inkscape:connector-curvature="0"
+       id="path1040"
+       d="m 123.28193,100.30742 v 12.48115"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1044)" />
+  </g>
+</svg>

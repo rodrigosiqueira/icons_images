@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="849.73071mm"
+   height="237.40221mm"
+   viewBox="0 0 849.73071 237.40221"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="gc_algoritmo.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17825"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17823"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17171"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17169"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16973"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16971"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16619"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16617"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16151"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16149"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15067"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15065"
+         style="fill:#a7b3cd;fill-opacity:1;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14467"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14465"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12181"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12179"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11503"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11501"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11173"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11171"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10639"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path10637"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8743"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8741"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8015"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8013"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6899"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6897"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5873"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5871"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3348"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3346"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3114"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#c83737;fill-opacity:1;fill-rule:evenodd;stroke:#c83737;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3112"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter886"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6555357"
+         id="feGaussianBlur888" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-358.40039"
+     inkscape:cy="1215.9254"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(275.10723,-68.290751)">
+    <g
+       id="g3736"
+       transform="matrix(0.13888396,0,0,0.13888396,-199.95806,149.29691)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539">
+      <circle
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         id="circle880"
+         cx="-499.90094"
+         cy="-47.24316"
+         r="82.776787" />
+      <circle
+         r="156.86389"
+         cy="74.738655"
+         cx="-373.42899"
+         id="path829"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       transform="matrix(0.13888396,0,0,0.13888396,26.045055,116.3693)"
+       id="g1084">
+      <circle
+         r="82.776787"
+         cy="-47.24316"
+         cx="-499.90094"
+         id="circle1080"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)" />
+      <circle
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1082"
+         cx="-373.42899"
+         cy="74.738655"
+         r="156.86389" />
+    </g>
+    <g
+       id="g1384"
+       transform="matrix(0.13888396,0,0,0.13888396,261.77678,138.81994)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539">
+      <circle
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         id="circle1380"
+         cx="-499.90094"
+         cy="-47.24316"
+         r="82.776787" />
+      <circle
+         r="156.86389"
+         cy="74.738655"
+         cx="-373.42899"
+         id="circle1382"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       transform="matrix(0.13888396,0,0,0.13888396,169.69154,221.41133)"
+       id="g1390">
+      <circle
+         r="82.776787"
+         cy="-47.24316"
+         cx="-499.90094"
+         id="circle1386"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)" />
+      <circle
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1388"
+         cx="-373.42899"
+         cy="74.738655"
+         r="156.86389" />
+    </g>
+    <g
+       id="g1910"
+       transform="matrix(0.13888396,0,0,0.13888396,324.63857,215.15212)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539">
+      <circle
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         id="circle1906"
+         cx="-499.90094"
+         cy="-47.24316"
+         r="82.776787" />
+      <circle
+         r="156.86389"
+         cy="74.738655"
+         cx="-373.42899"
+         id="circle1908"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke-width:7.20025539"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       transform="matrix(0.13888396,0,0,0.13888396,394.98391,142.56171)"
+       id="g1916">
+      <circle
+         r="82.776787"
+         cy="-47.24316"
+         cx="-499.90094"
+         id="circle1912"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)" />
+      <circle
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1914"
+         cx="-373.42899"
+         cy="74.738655"
+         r="156.86389" />
+    </g>
+    <g
+       style="fill:#d45500;stroke:#d45500;stroke-width:7.20025539"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       transform="matrix(0.13888396,0,0,0.13888396,524.44927,127.59462)"
+       id="g1928">
+      <circle
+         r="82.776787"
+         cy="-47.24316"
+         cx="-499.90094"
+         id="circle1924"
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:11.39868355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter886)"
+         transform="matrix(1.8950228,0,0,1.8950228,573.89469,164.26552)" />
+      <circle
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#d45500;stroke-width:21.60076714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1926"
+         cx="-373.42899"
+         cy="74.738655"
+         r="156.86389" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path3344"
+       d="m 98.446025,173.91905 11.517305,27.68912"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3348);paint-order:normal" />
+    <g
+       id="g5801"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       transform="translate(266.41427,308.32213)">
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:4.19534349;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11686"
+         width="45.982418"
+         height="109.18365"
+         x="139.09441"
+         y="-224.02505"
+         ry="19.555058"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-ydpi="144.75999" />
+      <text
+         id="text4726"
+         y="-154.72069"
+         x="-216.64592"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:19.75555611px;letter-spacing:-0.02645833px;stroke-width:0.26458332"
+           y="-154.72069"
+           x="-216.64592"
+           id="tspan4724"
+           sodipodi:role="line">GC Roots</tspan></text>
+    </g>
+    <text
+       id="text4732"
+       y="85.714584"
+       x="-157.52592"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         style="font-size:19.75555611px;letter-spacing:-0.02645833px;stroke-width:0.26458332"
+         y="85.714584"
+         x="-157.52592"
+         id="tspan4730"
+         sodipodi:role="line">Objetos Alcançáveis</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5873);paint-order:normal"
+       d="M 92.096025,221.01488 -1.1616746,147.63317"
+       id="path5869"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path6895"
+       d="M -52.895635,139.52322 -219.7075,165.09567"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6899);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker8015);paint-order:normal"
+       d="M -222.30062,146.40238 -58.663755,123.82067"
+       id="path8011"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g8731"
+       transform="translate(683.92677,376.05546)"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999">
+      <rect
+         inkscape:export-ydpi="144.75999"
+         inkscape:export-xdpi="144.75999"
+         inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/descritores.png"
+         ry="19.555058"
+         y="-224.02505"
+         x="139.09441"
+         height="109.18365"
+         width="45.982418"
+         id="rect8725"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:4.19534349;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-216.64592"
+         y="-154.72069"
+         id="text8729"><tspan
+           sodipodi:role="line"
+           id="tspan8727"
+           x="-216.64592"
+           y="-154.72069"
+           style="font-size:19.75555611px;letter-spacing:-0.02645833px;stroke-width:0.26458332">GC Roots</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker8743);paint-order:normal"
+       d="M 510.66687,185.56071 492.55083,162.979"
+       id="path8739"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path10635"
+       d="m 444.52103,138.99404 -68.38687,13.40163"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker10639);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11173);paint-order:normal"
+       d="m 324.92936,171.27321 -24.9952,33.50996"
+       id="path11169"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path11499"
+       d="m 237.61686,146.40237 72.90063,1.75997"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11503);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12181);paint-order:normal"
+       d="M 254.5502,206.19821 228.49666,171.44567"
+       id="path12177"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path14463"
+       d="m -272.51825,79.715027 h 95.90354"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker14467);paint-order:normal" />
+    <circle
+       r="21.785879"
+       cy="251.72452"
+       cx="197.19145"
+       id="circle14927"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker15067);paint-order:normal"
+       d="m 190.71329,79.715027 h 95.90354"
+       id="path15063"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15581"
+       cx="155.2836"
+       cy="91.57663"
+       r="21.785879"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       r="21.785879"
+       cy="264.44656"
+       cx="324.41177"
+       id="circle15583"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15585"
+       cx="400.74396"
+       cy="188.11438"
+       r="21.785879"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       r="21.785879"
+       cy="265.94327"
+       cx="460.6123"
+       id="circle15587"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15589"
+       cx="28.811649"
+       cy="235.26071"
+       r="21.785879"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       r="21.785879"
+       cy="282.40707"
+       cx="-69.222816"
+       id="circle15591"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15593"
+       cx="-56.500805"
+       cy="206.07489"
+       r="21.785879"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <circle
+       r="21.785879"
+       cy="197.09464"
+       cx="-160.52211"
+       id="circle15595"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7b3cd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.33333206px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="303.46057"
+       y="85.714584"
+       id="text15611"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"><tspan
+         sodipodi:role="line"
+         id="tspan15609"
+         x="303.46057"
+         y="85.714584"
+         style="font-size:19.75555611px;letter-spacing:-0.02645833px;stroke-width:0.26458332">Objetos Não Alcançáveis</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path16147"
+       d="m -134.07263,198.70343 46.512125,4.49013"
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker16151);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker16619);paint-order:normal"
+       d="M 2.8762654,224.89584 -26.195425,211.42545"
+       id="path16615"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="144.75999"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:connector-curvature="0"
+       id="path16969"
+       d="m 225.13761,256.32673 68.21441,2.99342"
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker16973);paint-order:normal" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker17171);paint-order:normal"
+       d="m 344.87435,248.09483 36.03518,-36.66938"
+       id="path17167"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a7b3cd;stroke-width:5.10525322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10525302, 5.10525302;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker17825);paint-order:normal"
+       d="M 190.71329,225.6442 162.38996,123.86796"
+       id="path17821"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/siqueira/Documents/Repositories/modelo-latex/figuras/gc_algoritmo.png"
+       inkscape:export-xdpi="144.75999"
+       inkscape:export-ydpi="144.75999"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

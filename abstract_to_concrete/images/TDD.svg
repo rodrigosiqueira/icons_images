@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="602.46204mm"
+   height="276.41217mm"
+   viewBox="0 0 602.46204 276.41217"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="TDD.svg">
   <defs
      id="defs2">
@@ -22,7 +22,7 @@
        height="1.0594984"
        y="-0.029749196"
        width="1.0150317"
-       x="-0.0075158408"
+       x="-0.0075158407"
        id="filter2292"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
@@ -35,7 +35,7 @@
        height="1.0545915"
        y="-0.02729577"
        width="1.015381"
-       x="-0.0076904766"
+       x="-0.0076904767"
        id="filter905"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
@@ -48,7 +48,7 @@
        height="1.0416235"
        y="-0.020811765"
        width="1.016861"
-       x="-0.0084305004"
+       x="-0.0084305005"
        id="filter1645"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
@@ -65,9 +65,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-91.428571"
-     inkscape:cy="554.28571"
+     inkscape:zoom="0.14304199"
+     inkscape:cx="948.20088"
+     inkscape:cy="-666.18775"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,7 +76,11 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:object-nodes="false" />
+     inkscape:object-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -92,7 +96,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(351.30837,55.772575)">
     <g
        id="layer1-6"
        inkscape:label="Layer 1"
